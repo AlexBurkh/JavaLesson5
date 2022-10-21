@@ -5,6 +5,10 @@ import java.util.UUID;
 
 public class Program {
     public static void main(String[] args) {
+
+    }
+
+    public static void Task1() {
         Map<Integer, Contact> contacts = new HashMap<>();
         String[] names = new String[] {"Алексей", "Дмитрий", "Игорь"};
         String[] numbers = new String[] {"123", "456", "789"};
